@@ -1,6 +1,6 @@
 {
   "name": "kickass.to",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "A module to manage kickass.to torrents",
   "main": "index.js",
   "scripts": {
