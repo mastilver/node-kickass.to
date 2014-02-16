@@ -1,4 +1,4 @@
 node-kickass.to
 ==============
 
-**As is still in development, please us it carefully!**
+**As it is still in development, please use it carefully!**
