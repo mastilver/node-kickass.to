@@ -1,6 +1,6 @@
 {
   "name": "kickass.to",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "ERROR: No README.md file found!",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,13 @@
     "url": "git://github.com/mastilver/node-kickass.to.git"
   },
   "author": "mastilver",
-  "license": "BSD"
+  "license": "BSD",
+  "dependencies": {
+    "underscore": "~1.5.2",
+    "request": "~2.33.0",
+    "cheerio": "~0.13.1"
+  },
+  "devDependencies": {
+    "should": "~3.1.2"
+  }
 }
